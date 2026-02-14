@@ -6,7 +6,7 @@
 <h3 align="center">A passionate B.Tech CSE Student | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;CGPA+8.7%2F10;Web+Developer;Java+Enthusiast;HackerRank+Campus+Ambassador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Web+Developer;Java+Enthusiast;HackerRank+Campus+Ambassador" alt="Typing SVG" />
 </p>
 
 
